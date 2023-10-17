@@ -1,0 +1,5 @@
+Neural networks are the basis of deep learning, a subfield of machine learning inspired by the structure of the human brain.
+Neural networks take in data, train themselves to recognize patterns, and make predictions for new similar data.
+Neural networks consist of layers of neurons, including input, hidden, and output layers.
+The process of forward propagation sends data through the network, while back propagation adjusts weights based on the error between predicted and actual outputs.
+Neural networks have various applications, such as facial recognition, forecasting, and music composition.

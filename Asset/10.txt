@@ -1,0 +1,19 @@
+Machine learning is a subset of artificial intelligence
+- It allows computers to learn from data without being explicitly programmed
+- It uses statistical methods to enable machines to improve using a large amount of data
+- An example of classification is determining if there is a cat in an image
+- Computers learn from data using supervised, semi-supervised, or unsupervised methods
+- These methods are all under a subset of machine learning called deep learning
+- Deep learning will be discussed in the next video
+- Machine learning is used to achieve an end goal decided by the developer.
+
+
+Machine learning is a subset of artificial intelligence that allows computers to learn from data without explicit programming. It uses statistical methods to enable machines to improve using a large amount of data. Classification is an example of machine learning, where the machine determines whether there is a cat in an unseen image by comparing it to annotated pictures of different cats. There are different ways computers learn from data to achieve an end goal, such as supervised, semi-supervised, and unsupervised methods, all under the subset of machine learning called deep learning.
+
+Bullet Summary:
+- Machine learning is a subset of artificial intelligence
+- It allows computers to learn from data without explicit programming
+- It uses statistical methods to improve using a large amount of data
+- Classification is an example of machine learning
+- There are different ways computers learn from data to achieve an end goal
+- Deep learning is a subset of machine learning that includes supervised, semi-supervised, and unsupervised methods

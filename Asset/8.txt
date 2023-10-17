@@ -1,0 +1,5 @@
+Machine learning enables computers to learn and improve at tasks without explicit programming.
+Computers learn by identifying statistical patterns within data and establishing algorithms for future data sorting.
+An example algorithm is finding an optimal line to separate cats from dogs in image recognition.
+Machine learning is widely used in facial recognition, text to speech recognition, spam filters, online recommendations, and fraud detection.
+Researchers at the University of Oxford are utilizing machine learning to solve complex problems efficiently with less computing power.

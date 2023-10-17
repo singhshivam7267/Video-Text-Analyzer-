@@ -1,0 +1,5 @@
+Machine learning is the process of training machines to learn from past data and make decisions faster than humans.
+In a basic example, a person named Paul likes songs based on their tempo and intensity. By looking at Paul's past choices, a machine learning algorithm can classify whether he will like a new song or not.
+Machine learning algorithms can be used for supervised learning, where labeled data is used to train the model, unsupervised learning, where unlabeled data is used to identify patterns, and reinforcement learning, which is based on feedback and rewards.
+The availability of vast amounts of data, improved computer memory handling capabilities, and increased computational power have made machine learning possible in today's era.
+Machine learning has various applications, including healthcare diagnostics, sentiment analysis on social media, fraud detection in finance, predicting customer churn in e-commerce, and surge pricing in transportation services like Uber.

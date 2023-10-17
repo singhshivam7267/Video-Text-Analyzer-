@@ -1,0 +1,5 @@
+Deep learning is a subset of machine learning and artificial intelligence.
+Deep learning uses artificial neural networks inspired by the human brain's structure.
+Deep learning allows machines to independently identify features without human intervention, but it requires a large volume of data for training.
+Neural networks consist of layers of neurons connected by weighted channels, with each neuron having a bias and an activation function.
+Deep learning is applied in various fields such as customer support, medical care, and self-driving cars, but it faces limitations in terms of data requirements, computational power, and training time.
